@@ -18,8 +18,9 @@
 ## Na prática:
 ### Parte das entradas dos dados da empresa:
 
- <li> Nesse momento, é questionado o nome da empresa e o tipo de imposto a pagar. </li>
- <li> É criada uma lista do tipo da interface </li>
+ <mark> Nesse momento, é questionado o nome da empresa e o tipo de imposto a pagar. </mark>
+ 
+ <mark> É criada uma lista do tipo da interface, Impostos </mark>
 
 ![{0E6B72AA-AC23-499C-AC85-44B4EE564BD4}](https://github.com/user-attachments/assets/436e00f2-4696-4ddf-8acd-9346a3c5d020)
 
