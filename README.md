@@ -1,6 +1,8 @@
 # Cálculo de Impostos
 <p> O foco deste repositório, é exibir um exemplo de código orientado a objeto, usando de entradas e saídas para calcular dados de impostos. </p>
 
+![image](https://github.com/user-attachments/assets/bea9adea-be9c-4fd3-bbf7-8579cca3f029)
+
 ## Como o código foi estruturado?
 
 <ol>
