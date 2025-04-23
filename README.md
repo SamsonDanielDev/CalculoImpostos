@@ -9,11 +9,11 @@
   <li>Foi desenvolvido com a ferramenta NetBeans, que possui funcionamento diferente. </li>
   <li>Composto por 4 classes e 1 interface:
   <ul>
-    <li> Impostos (interface) </li>
-    <li> PIS (classe para Programa de interação social) </li>
-    <li> IPI (classe para Imposto sobre produtos industrializados) </li>
-    <li> Pagamentos (classe para inserir informações dos pagamentos, com nomes das empresas e seus impostos em um Arraylist) </li>
-    <li> Atividade4 (classe principal) </li>
+    <li> Impostos (interface). </li>
+    <li> PIS (classe para Programa de interação social). </li>
+    <li> IPI (classe para Imposto sobre produtos industrializados). </li>
+    <li> Pagamentos (classe para inserir informações dos pagamentos, com nomes das empresas e seus impostos em um Arraylist). </li>
+    <li> Atividade4 (classe principal). </li>
   </ul></li>
   <li> Foi feito para haver uma comunicação direta entre as classes e a interface, o que gera o resultado visto. </li>
 </ol>
